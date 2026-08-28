@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/quantize", "destination": "/api/quantize" }
+  ]
+}
